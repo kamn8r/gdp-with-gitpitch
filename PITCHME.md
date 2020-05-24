@@ -4,7 +4,6 @@
 ---
 
 @title[Add A Little Imagination]
-<<<<<<< HEAD
 
 @snap[north span-50 text-center]
 ### Objectives
@@ -81,14 +80,9 @@ Lowest ever
 @snap[south span-100]
 Down to United Stated GDP by Decade @fa[arrow-down]
 @snapend
-=======
->>>>>>> 7a8274d9ee02d826557e21c0e72f833ced35889d
 
-@snap[north-west span-50 text-center]
-#### Objectives
-@snapend
++++
 
-<<<<<<< HEAD
 @snap[north span-100]
 Up to to see Real and Nominal GDP definition @fa[arrow-up]
 @snapend
@@ -105,36 +99,4 @@ This is a definition of Nominal GDP
 - https://www.investopedia.com/terms/g/gdp.asp [1]
 - https://www.thebalance.com/us-gdp-by-year-3305543 [2]
 - https://www.advisorperspectives.com/dshort/updates/2020/04/29/q1-gdp-advance-estimate-real-gdp-at-4-8 [3]
-
-=======
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- Provide definition and clarity around GDP
-- Learn how to leverage GitPitch for presentations
-- Have **fun** along the way
-@ulend
-@snapend
-
-@snap[east span-45]
-@fa[fa-bullseye]
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----
-
-### What is GDP?
-
----?color=#0F2862
-
-Gross Domestic Product (GDP) is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period. As a broad measure of overall domestic production, it functions as a comprehensive scorecard of the country’s economic health. [1]
-
----
-
-#### References
-
-- https://www.investopedia.com/terms/g/gdp.asp [1]
->>>>>>> 7a8274d9ee02d826557e21c0e72f833ced35889d
 
