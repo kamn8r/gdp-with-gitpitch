@@ -19,7 +19,7 @@
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/chest.jpg)
+![IMAGE](assets/images/chest.jpg)
 @snapend
 
 ---
