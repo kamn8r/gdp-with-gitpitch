@@ -14,7 +14,7 @@ layout           : center
 
 highlight : tomorrow
 
-theme-override: assets/css/PITCHME.css
+theme-override: PITCHME.css
 
 logo : assets/images/logo.png
 logo-position : top-left
